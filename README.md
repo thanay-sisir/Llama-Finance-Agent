@@ -33,7 +33,7 @@ Key financial features analyzed include revenue drivers, expense components, ris
 
 ## PROPOSED IMPLEMENTATION
 
-![image](https://github.com/user-attachments/assets/l3-financial-agent-architecture.png)
+
 
 **Instructions to Follow for Proposed Implementation:**
 
